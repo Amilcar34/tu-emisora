@@ -1,0 +1,15 @@
+authtoken: 2fTI1ewihOqbivSWn8nmVE9M2Ni_5Mbx8C5ixJyVFkHAjUodn
+version: 2
+tunnels:
+  tu-emisora:
+    proto: http
+    hostname: modest-flowing-snapper.ngrok-free.app
+    addr: 127.0.0.1:80
+
+    # -------------------------
+    # Additional options
+    # -------------------------
+    # auth: "username:password"
+    # host_header: rewrite
+    inspect: false
+    # bind_tls: true
